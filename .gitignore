@@ -1,0 +1,16 @@
+/public
+archive/
+resources/
+node_modules/
+# package-lock.json
+.hugo_build.lock
+nohup.out
+.DS_Store
+trace.out
+
+# VS Code
+/.vscode
+*.code-workspace
+
+# Idea
+/.idea
